@@ -18,6 +18,7 @@ h2{
 }
 input{
     height: 4vh;
+    width: 34vh;
     font-size: 12pt;
     border-top: 3px;
     border-color: rgb(241, 240, 240);
